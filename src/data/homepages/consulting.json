@@ -1,0 +1,957 @@
+{
+    "title": "consulting-home",
+    "content": [
+        {
+            "id": "consulting-hero",
+            "section": "hero-section",
+            "images": [{}],
+            "headings": [
+                {
+                    "content": "Stefan Ralston"
+                },
+                {
+                    "content": "Hi, I'm a"
+                }
+            ],
+            "animated_texts": [
+                "software developer.",
+                "digital consultant.",
+                "security enthusiast.",
+                "technology leader.",
+                "solution architect.",
+                "product strategist.",
+                "espresso picasso.",
+                "GPT believer."
+            ],
+            "buttons": [
+                {
+                    "id": 1,
+                    "path": "#contacts",
+                    "content": "WORK WITH ME"
+                }
+            ]
+        },
+        {
+            "id": "consulting-services",
+            "section": "service-section",
+            "section_title": {
+                "title": "What I Do",
+                "subtitle": "“The secret of change is to focus all your energy not on fighting the old but on building the new.” - Socrates"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Digital Transformation",
+                    "description": "Enhance your business processes through digital transformation, by streamlining, automating and modernizing them.",
+                    "icon": "Maximize",
+                    "path": "#!"
+                },
+                {
+                    "id": 2,
+                    "title": "App Development",
+                    "description": "Create customized software applications that align with your business needs.",
+                    "icon": "Codepen",
+                    "path": "#!"
+                },
+                {
+                    "id": 3,
+                    "title": "Mobile Development",
+                    "description": "Ensure your mobile applications deliver optimal performance and user experience.",
+                    "icon": "Smartphone",
+                    "path": "#!"
+                },
+                {
+                    "id": 4,
+                    "title": "Technical Leadership",
+                    "description": "Ensure efficient and collaborative project execution through seasoned technical leadership and cross-functional expertise.",
+                    "icon": "Users",
+                    "path": "#!"
+                },
+                {
+                    "id": 5,
+                    "title": "Product Strategy",
+                    "description": "Develop and execute comprehensive product strategies that drive business growth and success.",
+                    "icon": "BookOpen",
+                    "path": "#!"
+                },
+                {
+                    "id": 6,
+                    "title": "DevOps Architecture",
+                    "description": "Implement best-in-class DevOps architecture to optimize your software development processes, and drive productivity and efficiency.",
+                    "icon": "Zap",
+                    "path": "#!"
+                }
+            ]
+        },
+        {
+            "id": "consulting-portfolio",
+            "section": "portfolio-section",
+            "section_title": {
+                "title": "My Projects",
+                "subtitle": "“You’re only given a little spark of madness. You mustn’t lose it.” - Robin Williams"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Radical Moov (Mark Cuban Companies)",
+                    "category": "Mobile, Product, Ionic, Angular, iOS",
+                    "texts": [
+                        {
+                            "content": "<In Progress>"
+                        },
+                        {
+                            "content": "<In Progress>"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/radical_app.PNG"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 0
+                },
+                {
+                    "id": 2,
+                    "title": "MVP Draft: Real-time daily fantasy sports",
+                    "category": "Mobile, Web, MongoDb, Angular, NodeJs",
+                    "texts": [
+                        {
+                            "content": "<In Progress>"
+                        },
+                        {
+                            "content": "<In Progress>"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/mvp_app.PNG"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 0
+                },
+                {
+                    "id": 3,
+                    "title": "Floaty Bloon: Mobile Game",
+                    "category": "Mobile, Game, iOS, Flash",
+                    "texts": [
+                        {
+                            "content": "<In Progress>"
+                        },
+                        {
+                            "content": "<In Progress>"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/floaty_bloon_app.PNG"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                },
+                {
+                    "id": 4,
+                    "title": "Teamleader: Cheer Design Studio",
+                    "category": "Web, Angular",
+                    "texts": [
+                        {
+                            "content": "<In Progress>"
+                        },
+                        {
+                            "content": "<In Progress>"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/design_studio_app.PNG"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 600
+                },
+                {
+                    "id": 5,
+                    "title": "Blue Star Pool Care: Web Site",
+                    "category": "Web, Wordpress",
+                    "texts": [
+                        {
+                            "content": "<In Progress>"
+                        },
+                        {
+                            "content": "<In Progress>"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/bluestar_app.PNG"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 750
+                },
+                {
+                    "id": 6,
+                    "title": "DevelopBest: Technology Consultancy",
+                    "category": "Consulting, Design, Web",
+                    "texts": [
+                        {
+                            "content": "<In Progress>"
+                        },
+                        {
+                            "content": "<In Progress>"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "src": "../images/portfolio/develop_best_app.PNG"
+                        }
+                    ],
+                    "path": "#!",
+                    "likeCount": 630
+                }
+            ]
+        },
+        {
+            "id": "consulting-resume",
+            "section": "resume-section",
+            "section_title": {
+                "title": "My Resume",
+                "subtitle": "7+ Years of Experience"
+            }
+        },
+        {
+            "id": "consulting-education",
+            "section": "education-section",
+            "title": "Education",
+            "inner": [
+                {
+                    "id": "education-section-left",
+                    "section_title": {
+                        "title": "Education Quality",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Personal Portfolio April Fools",
+                            "subtitle": "University of DVI (1997 - 2001)",
+                            "rating": "4.30/5",
+                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Examples Of Personal Portfolio",
+                            "subtitle": "College of Studies (2000 - 2002)",
+                            "rating": "4.50/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Tips For Personal Portfolio",
+                            "subtitle": "University of Studies (1997 - 2001)",
+                            "rating": "4.80/5",
+                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                },
+                {
+                    "id": "education-section-right",
+                    "section_title": {
+                        "title": "Job Experience",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Diploma in Web Development",
+                            "subtitle": "BSE In CSE (2004 - 2008)",
+                            "rating": "4.70/5",
+                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "The Personal Portfolio Mystery",
+                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
+                            "rating": "4.95/5",
+                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Diploma in Computer Science",
+                            "subtitle": "Works at Plugin Development (2016 - 2020)",
+                            "rating": "5.00/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "consulting-skill",
+            "section": "skill-section",
+            "title": "professional Skills",
+            "inner": [
+                {
+                    "id": "consulting-skill-left",
+                    "section_title": {
+                        "title": "Design Skill",
+                        "subtitle": "Features"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "PHOTOSHOT",
+                            "value": 85
+                        },
+                        {
+                            "id": 2,
+                            "title": "FIGMA",
+                            "value": 95
+                        },
+                        {
+                            "id": 3,
+                            "title": "ADOBE XD",
+                            "value": 60
+                        },
+                        {
+                            "id": 4,
+                            "title": "ADOBE ILLUSTRATOR",
+                            "value": 70
+                        },
+                        {
+                            "id": 5,
+                            "title": "DESIGN",
+                            "value": 90
+                        }
+                    ]
+                },
+                {
+                    "id": "consulting-skill-right",
+                    "section_title": {
+                        "title": "Design Skill",
+                        "subtitle": "Features"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "HTML",
+                            "value": 85
+                        },
+                        {
+                            "id": 2,
+                            "title": "CSS",
+                            "value": 80
+                        },
+                        {
+                            "id": 3,
+                            "title": "JAVASCRIPT",
+                            "value": 90
+                        },
+                        {
+                            "id": 4,
+                            "title": "SOFTWARE",
+                            "value": 75
+                        },
+                        {
+                            "id": 5,
+                            "title": "PLUGIN",
+                            "value": 70
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "consulting-experience",
+            "section": "experience-section",
+            "title": "experience",
+            "inner": [
+                {
+                    "id": "consulting-experience-left",
+                    "section_title": {
+                        "title": "Education Quality",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Personal Portfolio April Fools",
+                            "subtitle": "University of DVI (1997 - 2001)",
+                            "rating": "4.30/5",
+                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Examples Of Personal Portfolio",
+                            "subtitle": "College of Studies (2000 - 2002)",
+                            "rating": "4.50/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Tips For Personal Portfolio",
+                            "subtitle": "University of Studies (1997 - 2001)",
+                            "rating": "4.80/5",
+                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                },
+                {
+                    "id": "consulting-section-right",
+                    "section_title": {
+                        "title": "Job Experience",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Diploma in Web Development",
+                            "subtitle": "BSE In CSE (2004 - 2008)",
+                            "rating": "4.70/5",
+                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "The Personal Portfolio Mystery",
+                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
+                            "rating": "4.95/5",
+                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Diploma in Computer Science",
+                            "subtitle": "Works at Plugin Development (2016 - 2020)",
+                            "rating": "5.00/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "consulting-interview",
+            "section": "interview-section",
+            "title": "interview",
+            "inner": [
+                {
+                    "id": "consulting-experience-left",
+                    "section_title": {
+                        "title": "Company Experience",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Personal Portfolio April Fools",
+                            "subtitle": "University of DVI (1997 - 2001)",
+                            "rating": "4.30/5",
+                            "description": "The education should be very interactual. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "Examples Of Personal Portfolio",
+                            "subtitle": "College of Studies (2000 - 2002)",
+                            "rating": "4.50/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Tips For Personal Portfolio",
+                            "subtitle": "University of Studies (1997 - 2001)",
+                            "rating": "4.80/5",
+                            "description": "If you are going to use a passage. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                },
+                {
+                    "id": "consulting-section-right",
+                    "section_title": {
+                        "title": "Job Experience",
+                        "subtitle": "2007 - 2010"
+                    },
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "Diploma in Web Development",
+                            "subtitle": "BSE In CSE (2004 - 2008)",
+                            "rating": "4.70/5",
+                            "description": "Contrary to popular belief. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 2,
+                            "title": "The Personal Portfolio Mystery",
+                            "subtitle": "Job at Rainbow-Themes (2008 - 2016)",
+                            "rating": "4.95/5",
+                            "description": "Generate Lorem Ipsum which looks. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        },
+                        {
+                            "id": 3,
+                            "title": "Diploma in Computer Science",
+                            "subtitle": "Works at Plugin Development (2016 - 2020)",
+                            "rating": "5.00/5",
+                            "description": "Maecenas finibus nec sem ut imperdiet. Ut tincidunt est ac dolor aliquam sodales. Phasellus sed mauris hendrerit, laoreet sem in, lobortis mauris hendrerit ante."
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "consulting-clients",
+            "section": "client-section",
+            "section_title": {
+                "title": "I've collaborated with some awesome companies",
+                "subtitle": "“Coming together is a beginning; keeping together is progress; working together is success.” - Henry Ford"
+            },
+            "items": [
+                {
+                    "id": 1,
+                    "title": "Toyota",
+                    "images": [
+                        {
+                            "src": "../images/client/toyota.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "title": "TGI Fridays",
+                    "images": [
+                        {
+                            "src": "../images/client/fridays.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "title": "ExxonMobil",
+                    "images": [
+                        {
+                            "src": "../images/client/exxon.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "title": "Blue Cross Blue Shield",
+                    "images": [
+                        {
+                            "src": "../images/client/bluecross.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 5,
+                    "title": "Mark Cuban Companies",
+                    "images": [
+                        {
+                            "src": "../images/client/mcc.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "title": "ConEdison",
+                    "images": [
+                        {
+                            "src": "../images/client/conedison.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "title": "Santander",
+                    "images": [
+                        {
+                            "src": "../images/client/santander.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "title": "CPower",
+                    "images": [
+                        {
+                            "src": "../images/client/cpower.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "title": "College of American Pathologists",
+                    "images": [
+                        {
+                            "src": "../images/client/cap.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "title": "Save A Lot",
+                    "images": [
+                        {
+                            "src": "../images/client/sal.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 11,
+                    "title": "Portland General Electric",
+                    "images": [
+                        {
+                            "src": "../images/client/pge.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "title": "DRB Systems",
+                    "images": [
+                        {
+                            "src": "../images/client/drb.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "title": "Radical Transport (Moov)",
+                    "images": [
+                        {
+                            "src": "../images/client/radical.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "title": "West Monroe Partners",
+                    "images": [
+                        {
+                            "src": "../images/client/wmp.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "title": "Torq",
+                    "images": [
+                        {
+                            "src": "../images/client/torq.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "title": "Teamleader",
+                    "images": [
+                        {
+                            "src": "../images/client/teamleader.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "title": "Blue Star Pool Care",
+                    "images": [
+                        {
+                            "src": "../images/client/bluestar.jpg"
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "title": "GlobalTranz",
+                    "images": [
+                        {
+                            "src": "../images/client/globaltranz.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 19,
+                    "title": "Jet Support Services",
+                    "images": [
+                        {
+                            "src": "../images/client/jssi.png"
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "title": "Discover",
+                    "images": [
+                        {
+                            "src": "../images/client/discover.png"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "consulting-pricing",
+            "section": "pricing-section",
+            "section_title": {
+                "title": "My Pricing",
+                "subtitle": "Pricing"
+            },
+            "inner": [
+                {
+                    "id": "pricing-static",
+                    "inner_title": "Basic",
+                    "title": "Make Your Single Page",
+                    "subtitle": "Elementor",
+                    "is_featured": false,
+                    "price": "$30.00",
+                    "description": "All the Lorem Ipsum generators on the Internet tend to repeat predefined chunks as necessary",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "1 Page with Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Responsive Design",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 5,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 6,
+                            "title": "2 Plugins/Extensions",
+                            "available": true
+                        },
+                        {
+                            "id": 7,
+                            "title": "multipage Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 8,
+                            "title": "Design Figma",
+                            "available": true
+                        },
+                        {
+                            "id": 9,
+                            "title": "MAintaine Design",
+                            "available": true
+                        },
+                        {
+                            "id": 10,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 11,
+                            "title": "Design With XD",
+                            "available": false
+                        },
+                        {
+                            "id": 12,
+                            "title": "8 Plugins/Extensions",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#!",
+                    "deliveryTime": 2,
+                    "revission": "Unlimited"
+                },
+                {
+                    "id": "pricing-standard",
+                    "inner_title": "Standard",
+                    "title": "Design Make this Page",
+                    "subtitle": "Elementor",
+                    "is_featured": true,
+                    "price": "$50.00",
+                    "description": "Making this the first true generator on the Internet. It uses a dictionary & plugin Development.",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "1 Page with Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Responsive Design",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 5,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 6,
+                            "title": "2 Plugins/Extensions",
+                            "available": true
+                        },
+                        {
+                            "id": 7,
+                            "title": "multipage Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 8,
+                            "title": "Design Figma",
+                            "available": true
+                        },
+                        {
+                            "id": 9,
+                            "title": "MAintaine Design",
+                            "available": true
+                        },
+                        {
+                            "id": 10,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 11,
+                            "title": "Design With XD",
+                            "available": false
+                        },
+                        {
+                            "id": 12,
+                            "title": "8 Plugins/Extensions",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#!",
+                    "deliveryTime": 2,
+                    "revission": "Unlimited"
+                },
+                {
+                    "id": "pricing-premium",
+                    "inner_title": "Premium",
+                    "title": "Customize Your Single Page",
+                    "subtitle": "Elementor",
+                    "is_featured": false,
+                    "price": "$90.00",
+                    "description": "I will install your desire theme and made like Theme demo and customize your single page( homepage)",
+                    "items": [
+                        {
+                            "id": 1,
+                            "title": "1 Page with Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 2,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 3,
+                            "title": "Responsive Design",
+                            "available": true
+                        },
+                        {
+                            "id": 4,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 5,
+                            "title": "Design Customization",
+                            "available": true
+                        },
+                        {
+                            "id": 6,
+                            "title": "2 Plugins/Extensions",
+                            "available": true
+                        },
+                        {
+                            "id": 7,
+                            "title": "multipage Elementor",
+                            "available": true
+                        },
+                        {
+                            "id": 8,
+                            "title": "Design Figma",
+                            "available": true
+                        },
+                        {
+                            "id": 9,
+                            "title": "MAintaine Design",
+                            "available": true
+                        },
+                        {
+                            "id": 10,
+                            "title": "Content Upload",
+                            "available": true
+                        },
+                        {
+                            "id": 11,
+                            "title": "Design With XD",
+                            "available": false
+                        },
+                        {
+                            "id": 12,
+                            "title": "8 Plugins/Extensions",
+                            "available": true
+                        }
+                    ],
+                    "orderLink": "#!",
+                    "deliveryTime": 2,
+                    "revission": "Unlimited"
+                }
+            ]
+        },
+        {
+            "id": "consulting-blog",
+            "section": "blog-section",
+            "section_title": {
+                "title": "My Writings",
+                "subtitle": "“A synonym is a word you use when you can't spell the other one.” - Baltasar Gracián"
+            }
+        },
+        {
+            "id": "consulting-contact",
+            "section": "contact-section",
+            "section_title": {
+                "title": "Work With Me",
+                "subtitle": "“You miss 100% of the shots you don’t take” – Wayne Gretzky – Michael Scott"
+            },
+            "images": [
+                {
+                    "src": "../images/logo/IMG_5122.jpg"
+                }
+            ],
+            "headings": [
+                {
+                    "content": "Stefan Ralston"
+                },
+                {
+                    "content": ""
+                }
+            ],
+            "texts": [
+                {
+                    "content": "I want to hear from you! Reach out for any questions, comments, or partnership opportunities."
+                }
+            ]
+        }
+    ]
+}

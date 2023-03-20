@@ -1,0 +1,18 @@
+{
+    "id": "header-data-1",
+    "section": "header-1",
+    "button": {
+        "id": 1,
+        "content": "BUY NOW",
+        "path": ""
+    },
+    "logo": [
+        {
+            "src": "../images/logo/logo.png"
+        },
+        {
+            "src": "../images/logo/logo-dark.png"
+        }
+    ],
+    "slogan": "Stefan Ralston"
+}
