@@ -87,7 +87,7 @@
             "id": "consulting-portfolio",
             "section": "portfolio-section",
             "section_title": {
-                "title": "My Projects",
+                "title": "My Work",
                 "subtitle": "“You’re only given a little spark of madness. You mustn’t lose it.” - Robin Williams"
             },
             "items": [
@@ -501,7 +501,7 @@
             "id": "consulting-clients",
             "section": "client-section",
             "section_title": {
-                "title": "I've collaborated with some awesome companies",
+                "title": "Collaborated with some awesome companies",
                 "subtitle": "“Coming together is a beginning; keeping together is progress; working together is success.” - Henry Ford"
             },
             "items": [

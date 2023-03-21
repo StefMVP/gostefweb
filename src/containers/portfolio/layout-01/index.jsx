@@ -56,7 +56,7 @@ PortfolioArea.propTypes = {
 };
 
 PortfolioArea.defaultProps = {
-    id: "projects",
+    id: "work",
 };
 
 export default PortfolioArea;
