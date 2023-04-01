@@ -931,7 +931,7 @@
             "id": "consulting-contact",
             "section": "contact-section",
             "section_title": {
-                "title": "Work With Me",
+                "title": "I want to hear from you!",
                 "subtitle": "“You miss 100% of the shots you don’t take” – Wayne Gretzky – Michael Scott"
             },
             "images": [
@@ -949,7 +949,7 @@
             ],
             "texts": [
                 {
-                    "content": "I want to hear from you! Reach out for any questions, comments, or partnership opportunities."
+                    "content": "Reach out for any questions, comments, or partnership opportunities."
                 }
             ]
         }
